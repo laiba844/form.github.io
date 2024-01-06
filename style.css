@@ -1,0 +1,57 @@
+body
+{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+.container
+{
+    background-color: white;
+    margin: auto;
+    height: 1400px;
+    width: 1400px;
+}
+h1
+{
+    text-align: center;
+    color: blueviolet;
+    padding-top: 15px;
+    text-decoration: underline;
+}
+
+.form
+{
+    width: 1200px;
+    height: 1200px;
+    background-color: blueviolet;
+    margin: auto;
+}
+
+td
+{
+    padding: 8px;
+    font-size: 20px;
+    color: white;
+    /* margin-left: 40px; */
+
+
+}
+
+input
+{   
+    font-size: 20px;
+}
+select
+{
+ 
+    width: 80px;
+    height: 28px;
+    border-radius: 5px;
+}
+button
+{
+    width: 90px;
+    height: 30px;
+    margin-top: 15px;
+}
